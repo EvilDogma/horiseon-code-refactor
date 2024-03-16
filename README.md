@@ -1,34 +1,35 @@
-# Coding Bootcamp Challenge horiseon-code-refactor
+# Horiseon Code Refactor
 
-## About this Challenge
+## Description
 
-For this challenge, we were given some sample code and asked to refactor it to conform to more modern standards. We were asked to replace many 'div' elements with semantic elements such as 'header' and 'main', add 'alt' attributes to images to improve accessibility, and to remove redundant information from the CSS.
+This project was undertaken as part of a coding bootcamp. This was the first challenge exercise and asked me to refactor sample code incorperating semantic elements, adding comments, and removing repetitions. This is a common problem for many websites to bring their code up to current standards. This project provided me practice using git to methodically change HTML and CSS code and track and commit changes to the code.
 
-Here are the exact requirements we were given
 
-## Challenge Requirements
+## Installation
 
-## User Story
+If you wish to run this project locally on your own computer, assuming you have git installed, input the following code in your terminal.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+git clone https://github.com/EvilDogma/horiseon-code-refactor.git
 
-## Acceptance Criteria
+## Usage
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+The live site may be viewed at the following url.
+https://evildogma.github.io/horiseon-code-refactor/
 
+Here is a screenshot of the page.
+![Alt text](./assets/images/final-result.png)
+    
+
+## Credits
+
+The original files for this program may be found here if you wish to recreate this project.
+
+https://github.com/coding-boot-camp/urban-octo-telegram
+
+I followed this guide to create this README.md file
+
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+## License
+
+This project has a MIT License. For more information. Read the LICENSE file or visit 
+---
