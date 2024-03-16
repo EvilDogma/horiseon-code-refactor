@@ -31,5 +31,5 @@ I followed this guide to create this README.md file
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 ## License
 
-This project has a MIT License. For more information. Read the LICENSE file or visit 
+This project has a MIT License. For more information read the LICENSE file.
 ---
